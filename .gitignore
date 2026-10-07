@@ -1,0 +1,23 @@
+# .NET build output
+**/bin/
+**/obj/
+*.user
+.vs/
+
+# Database files
+*.db*
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+coverage/
+
+# Environment and secrets
+.env
+.env.*
+
+# IDEs and OS files
+.idea/
+.DS_Store
+Thumbs.db
